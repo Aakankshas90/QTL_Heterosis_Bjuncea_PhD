@@ -1,12 +1,16 @@
-* QTL_Heterosis_Bjuncea_PhD
+# QTL_Heterosis_Bjuncea_PhD
 
 This repository contains the R scripts, bash codes, and statistical analyses used during my PhD research in Genetics and Plant Breeding on heterosis and quantitative trait loci (QTL) analysis in *Brassica juncea*.
 
-** What is Heterosis
+---
+
+## Heterosis
 Superior performance (yield, size and overall productivity) of F1 hybrids as compared to their homozygous parents.
 The genetic and molecular mechanism of the phenomenon is not studied in *Brassica juncea* previously.
 
-**
+---
+
+## Work done
 The work focused on understanding the genetic bases of heterosis by using linkage mapping and QTL analyses. The repository contains the bioinformatic part of the project, including, the development of high-density genetic linkage map using Illumina ABC 90K chip and other DNA markers, QTL analysis, ex statistical analyses and visualization of linkage groups & QTLs.
 
 The analyses contributed to the following published research article:
