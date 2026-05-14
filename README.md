@@ -42,7 +42,7 @@ The scripts were developed during active PhD research and therefore reflect prac
 
 | Script             | Purpose                                                                  |
 | ------------------ | ------------------------------------------------------------------------ |
-| `Asmap.R`          | Genetic linkage map construction and marker analysis using ASMap |
+| `Asmap.R`          | Genetic linkage map construction and marker analysis using ASMap         |
 | `Linkagemapview.R` | Visualization of linkage groups and linkage maps                         |
 | `METAN.R`          | Meta-analysis and statistical analysis workflows                         |
 | `Circos script.R`  | Circular genomic visualization workflows                                 |
@@ -54,7 +54,7 @@ The scripts were developed during active PhD research and therefore reflect prac
 
 * These scripts are archived research workflows developed during my doctoral research and are preserved primarily for documentation and reproducibility purposes.
 * Many scripts contain hard-coded local file paths and dataset-specific parameters reflecting the original computational environment used during the PhD work.
-* The repository is intended to document the analytical methods and workflows used in the published research rather than serve as a packaged software pipeline.
+* The repository is intended to document the analytical methods and workflows used in the published research only.
 
 ---
 
